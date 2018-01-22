@@ -1,0 +1,8 @@
+title: Evennia
+description: Test mirror of the mercurial repo. Don't clone from this yet, it may go away.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
